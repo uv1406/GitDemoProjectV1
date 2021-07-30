@@ -6,7 +6,8 @@ public class MultiplyTwoNumbers {
 	      int num1 = 5, num2 = 15, multiply,div;
 	      multiply = num1 * num2;
 	      div = num1 / num2;
-	      System.out.println(" Branch x Sum of these numbers: "+multiply + div);
+	      System.out.println(" Branch x Sum of these numbers: "+multiply );
+	      System.out.println(" Branch x Sum of these numbers: "+div);
 	   }
 
 }
